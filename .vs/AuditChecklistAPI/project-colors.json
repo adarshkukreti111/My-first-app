@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "acee1c1c-732d-4e83-ba1a-dde57b42bdb7": {
+      "ProjectGuid": "acee1c1c-732d-4e83-ba1a-dde57b42bdb7",
+      "DisplayName": "AuditChecklistAPI",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

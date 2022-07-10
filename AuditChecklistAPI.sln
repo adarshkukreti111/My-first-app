@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32616.157
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AuditChecklistAPI", "AuditChecklistAPI\AuditChecklistAPI.csproj", "{ACEE1C1C-732D-4E83-BA1A-DDE57B42BDB7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ACEE1C1C-732D-4E83-BA1A-DDE57B42BDB7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ACEE1C1C-732D-4E83-BA1A-DDE57B42BDB7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ACEE1C1C-732D-4E83-BA1A-DDE57B42BDB7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ACEE1C1C-732D-4E83-BA1A-DDE57B42BDB7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {69B6A120-BEAF-4AAF-8140-7B749A62D8DB}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "G4A5FjGWBHKN595+iccM3SW0zdddCRd2LHJCqZUD9bs=",
+  "Source": "AuditChecklistAPI",
+  "BasePath": "_content/AuditChecklistAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

@@ -1,0 +1,11 @@
+C:\Users\hp\source\repos\Microservice\AuditChecklistAPI\AuditChecklistAPI\obj\Docker\publish\AuditChecklistAPI.exe
+C:\Users\hp\source\repos\Microservice\AuditChecklistAPI\AuditChecklistAPI\obj\Docker\publish\appsettings.Development.json
+C:\Users\hp\source\repos\Microservice\AuditChecklistAPI\AuditChecklistAPI\obj\Docker\publish\appsettings.json
+C:\Users\hp\source\repos\Microservice\AuditChecklistAPI\AuditChecklistAPI\obj\Docker\publish\AuditChecklistAPI.dll
+C:\Users\hp\source\repos\Microservice\AuditChecklistAPI\AuditChecklistAPI\obj\Docker\publish\AuditChecklistAPI.deps.json
+C:\Users\hp\source\repos\Microservice\AuditChecklistAPI\AuditChecklistAPI\obj\Docker\publish\AuditChecklistAPI.runtimeconfig.json
+C:\Users\hp\source\repos\Microservice\AuditChecklistAPI\AuditChecklistAPI\obj\Docker\publish\AuditChecklistAPI.pdb
+C:\Users\hp\source\repos\Microservice\AuditChecklistAPI\AuditChecklistAPI\obj\Docker\publish\Microsoft.OpenApi.dll
+C:\Users\hp\source\repos\Microservice\AuditChecklistAPI\AuditChecklistAPI\obj\Docker\publish\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\hp\source\repos\Microservice\AuditChecklistAPI\AuditChecklistAPI\obj\Docker\publish\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\hp\source\repos\Microservice\AuditChecklistAPI\AuditChecklistAPI\obj\Docker\publish\Swashbuckle.AspNetCore.SwaggerUI.dll
